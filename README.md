@@ -27,7 +27,7 @@ Clone the repository:
 bash
 Run
 Copy code
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/yourusername/Fullstack-Chat-App-MERN
 cd chat-application
 Navigate to the client directory and install dependencies:
 
